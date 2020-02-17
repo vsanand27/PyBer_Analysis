@@ -5,7 +5,9 @@ CEO has to create an overall snapshot of the ride-sharing data. In addition, she
 
 # 2.0 Analysis 
 
-![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig8.png)
+
+
+![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Data_Analytics_Summary.PNG)
 
 
 
