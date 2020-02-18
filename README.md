@@ -28,6 +28,8 @@ The anlaysis show Market Segmentation and the fare prices.  The size of the bubl
 The analysis show Median, Inter, Upper and Lower Quadrent.  There were no outliers reported
 ![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig2.png)
 
+## Total Revenue 
 
+![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig5.png)
 
 
