@@ -21,3 +21,7 @@ While Rural has the highest profitable fare, Urban poses a great opportunity due
 ## Revenue and No of Ride (Volume)by City Type 
 
 ![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig1.png)
+
+![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig2.png)
+
+
