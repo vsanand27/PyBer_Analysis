@@ -30,7 +30,7 @@ The anlaysis show Market Segmentation and the fare prices.  The size of the bubl
 
 ## Review Outliers - Box & Whispers
 
-The analysis show Median, Inter, Upper and Lower Quadrent.  $39 Fare outliers reported for Urban
+The analysis show Median, Inter, Upper and Lower Quadrent.  39 No of Rides reported for Urban City as a outliers.
 
 ![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig2.png)
 
