@@ -21,7 +21,7 @@ While Rural has the highest profitable fare, Urban poses a great opportunity due
 
 ## Revenue and No of Ride (Volume)by City Type 
 
-The anlaysis show Market Segmentation and the fare prices.  The size of the buble reflects # of rides or Volueme
+The anlaysis show Market Segmentation and the fare prices.  The size of the buble reflects # of rides or Volume
 ![alt text](https://github.com/vsanand27/PyBer_Analysis/blob/master/analysis/Fig1.png)
 
 ## Review Outliers - Box & Whispers
